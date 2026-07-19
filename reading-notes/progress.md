@@ -1,8 +1,8 @@
 # 学习进度
 
-更新时间：2026-05-31
+更新时间：2026-07-19
 
-当前进度：已看完 `translations/zh/` 下的中文内容。
+当前进度：第一阶段的中文内容已经学完，第二阶段正在推进 `缓存与性能` 和 `数据库与存储` 两组文档。
 
 ## 已完成
 
@@ -25,3 +25,93 @@
 - [x] [版本号是什么意思？](../translations/zh/what-do-version-numbers-mean.zh.md)
 - [x] [关于 HTTP Header 的重要知识](../translations/zh/important-things-about-http-headers-you-may-not-know.zh.md)
 - [x] [短轮询、长轮询、SSE、WebSocket](../translations/zh/shortlong-polling-sse-websocket.zh.md)
+
+## 第二阶段
+
+- 总目标：完成 `缓存与性能` 和 `数据库与存储` 两组中文翻译。
+- 目标总数：76 篇。
+- 当前已完成：34 篇。
+- 其中 `数据库与存储`：29 / 47。
+- 其中 `缓存与性能`：5 / 29。
+
+### 数据库与存储
+
+- [x] [读副本模式](../translations/zh/read-replica-pattern.zh.md)
+- [x] [悲观锁与乐观锁](../translations/zh/pessimistic-vs-optimistic-locking.zh.md)
+- [x] [如何把大文件上传到 S3](../translations/zh/how-to-upload-a-large-file-to-s3.zh.md)
+- [x] [消息队列类型](../translations/zh/types-of-message-queue.zh.md)
+- [x] [用 Avro 实现平滑数据迁移](../translations/zh/smooth-data-migration-with-avro.zh.md)
+- [x] [终极 Kafka 101](../translations/zh/the-ultimate-kafka-101-you-cannot-miss.zh.md)
+- [x] [数据库隔离级别](../translations/zh/what-are-database-isolation-levels.zh.md)
+- [x] [6 个数据管理模式](../translations/zh/how-do-we-manage-data.zh.md)
+- [x] [Kafka 为什么快？](../translations/zh/why-is-kafka-fast.zh.md)
+- [x] [4 种常用队列解释](../translations/zh/explaining-the-4-most-commonly-used-types-of-queues-in-a-single-diagram.zh.md)
+- [x] [20 行解释时序数据库 TSDB](../translations/zh/time-series-db-tsdb-in-20-lines.zh.md)
+- [x] [事件溯源系统设计中的差异](../translations/zh/differences-in-event-sourcing-system-design.zh.md)
+- [ ] [纠删码](../translations/zh/erasure-coding.zh.md)
+- [ ] [交付语义](../translations/zh/delivery-semantics.zh.md)
+- [ ] [变更数据捕获：利用实时数据的关键](../translations/zh/change-data-capture-key-to-leverage-real-time-data.zh.md)
+- [ ] [Kafka 会丢消息吗？](../translations/zh/can-kafka-lose-messages.zh.md)
+- [ ] [存储系统概览](../translations/zh/storage-systems-overview.zh.md)
+- [ ] [对象存储的 6 个使用场景](../translations/zh/explain-the-top-6-use-cases-of-object-stores.zh.md)
+- [ ] [必须知道的最终一致性模式](../translations/zh/top-eventual-consistency-patterns-you-must-know.zh.md)
+- [x] [B-Tree 与 LSM-Tree](../translations/zh/b-tree-vs.zh.md)
+- [x] [如何决定使用哪类数据库](../translations/zh/how-do-you-decide-which-type-of-database-to-use.zh.md)
+- [x] [云数据库速查表](../translations/zh/cloud-database-cheat-sheet.zh.md)
+- [x] [内存类型](../translations/zh/types-of-memory.zh.md)
+- [x] [理解数据库类型](../translations/zh/understanding-database-types.zh.md)
+- [x] [4 种数据分片算法](../translations/zh/top-4-data-sharding-algorithms-explained.zh.md)
+- [x] [6 种数据库模型](../translations/zh/top-6-database-models.zh.md)
+- [x] [SQL 语句在数据库中如何执行](../translations/zh/how-is-a-sql-statement-executed-in-the-database.zh.md)
+- [x] [什么是 Serverless DB？](../translations/zh/what-is-serverless-db.zh.md)
+- [x] [PostgreSQL 为什么最受喜爱](../translations/zh/why-is-postgresql-voted-as-the-most-loved-database-by-stackoverflow-2022-developer-survey.zh.md)
+- [x] [10 个最流行的开源数据库](../translations/zh/top-10-most-popular-open-source-databases.zh.md)
+- [x] [PostgreSQL 正在吞噬数据库世界吗？](../translations/zh/is-postgresql-eating-the-database-world.zh.md)
+- [x] [如何选择正确的数据库](../translations/zh/how-to-choose-the-right-database.zh.md)
+- [ ] [爱奇艺数据库选择树](../translations/zh/iqiyi-database-selection-trees.zh.md)
+- [ ] [支撑数据库的 8 种数据结构](../translations/zh/8-data-structures-that-power-your-databases.zh.md)
+- [ ] [如何实现读副本模式](../translations/zh/how-to-implement-read-replica-pattern.zh.md)
+- [x] [数据库分片速成课](../translations/zh/a-crash-course-in-database-sharding.zh.md)
+- [ ] [IBM MQ -> RabbitMQ -> Kafka -> Pulsar：消息队列演进](../translations/zh/how-do-message-queue-architectures-evolve.zh.md)
+- [ ] [CAP 定理：最容易被误解的术语之一](../translations/zh/cap-theorem-one-of-the-most-misunderstood-terms.zh.md)
+- [x] [一致性哈希解释](../translations/zh/consistent-hashing.zh.md)
+- [ ] [数据库类型](../translations/zh/types-of-databases.zh.md)
+- [ ] [理解数据库分片的关键概念](../translations/zh/key-concepts-to-understand-database-sharding.zh.md)
+- [ ] [数据库锁解释](../translations/zh/what-are-the-differences-among-database-locks.zh.md)
+- [ ] [数据库性能速查表](../translations/zh/a-cheatsheet-on-database-performance.zh.md)
+- [x] [ACID 是什么意思？](../translations/zh/what-does-acid-mean.zh.md)
+- [ ] [Kafka 的 5 个主要使用场景](../translations/zh/top-5-kafka-use-cases.zh.md)
+- [ ] [内存和存储类型](../translations/zh/types-of-memory-and-storage.zh.md)
+- [x] [扩展数据库的 7 个必知策略](../translations/zh/7-must-know-strategies-to-scale-your-database.zh.md)
+
+### 缓存与性能
+
+- [ ] [什么是 ELK Stack，为什么它很流行？](../translations/zh/what-is-elk-stack-and-why-is-it-so-popular-for-log-management.zh.md)
+- [ ] [CDN 为什么如此流行？](../translations/zh/why-are-content-delivery-networks-cdn-so-popular.zh.md)
+- [ ] [Redis 大 Key 如何影响持久化](../translations/zh/how-do-big-keys-impact-redis-persistence.zh.md)
+- [ ] [CDN 初学者指南](../translations/zh/a-beginner's-guide-to-cdn-content-delivery-network.zh.md)
+- [x] [终极 Redis 101](../translations/zh/the-ultimate-redis-101.zh.md)
+- [ ] [每个开发者都该了解的缓存系统](../translations/zh/cache-systems-every-developer-should-know.zh.md)
+- [ ] [降低延迟的 5 个策略](../translations/zh/top-5-strategies-to-reduce-latency.zh.md)
+- [ ] [5 个缓存策略](../translations/zh/top-5-caching-strategies.zh.md)
+- [ ] [使用缓存时要考虑的事情](../translations/zh/things-to-consider-when-using-cache.zh.md)
+- [ ] [缓存淘汰策略](../translations/zh/most-popular-cache-eviction.zh.md)
+- [ ] [Memcached 与 Redis](../translations/zh/memcached-vs-redis.zh.md)
+- [ ] [低延迟证券交易所](../translations/zh/low-latency-stock-exchange.zh.md)
+- [ ] [缓存未命中攻击](../translations/zh/cache-miss-attack.zh.md)
+- [ ] [8 个缓存淘汰策略](../translations/zh/top-8-cache-eviction-strategies.zh.md)
+- [x] [缓存系统可能如何出错？](../translations/zh/how-can-cache-systems-go-wrong.zh.md)
+- [ ] [Elasticsearch 的 6 个使用场景](../translations/zh/top-6-elasticsearch-use-cases.zh.md)
+- [ ] [CDN 如何工作？](../translations/zh/how-does-cnd-work.zh.md)
+- [ ] [Redis 架构如何演进](../translations/zh/how-redis-architecture-evolve.zh.md)
+- [ ] [Redis 如何持久化数据？](../translations/zh/how-does-redis-persist-data.zh.md)
+- [ ] [Redis 可以如何使用？](../translations/zh/how-can-redis-be-used.zh.md)
+- [x] [Redis 为什么这么快？](../translations/zh/why-is-redis-so-fast.zh.md)
+- [ ] [如何学习 Elasticsearch](../translations/zh/how-do-we-learn-elasticsearch.zh.md)
+- [x] [什么是 CDN？](../translations/zh/what-is-cdn-content-delivery-network.zh.md)
+- [ ] [前端性能优化](../translations/zh/how-to-load-your-websites-at-lightning-speed.zh.md)
+- [ ] [你应该知道哪些延迟数字？](../translations/zh/which-latency-numbers-should-you-know.zh.md)
+- [ ] [常见缓存策略](../translations/zh/what-are-the-top-caching-strategies.zh.md)
+- [ ] [9 个网站性能指标](../translations/zh/top-9-website-performance-metrics-you-cannot-ignore.zh.md)
+- [ ] [提升 API 性能的 5 种常见方式](../translations/zh/top-5-common-ways-to-improve-api-performance.zh.md)
+- [x] [学习缓存](../translations/zh/learn-cache.zh.md)
