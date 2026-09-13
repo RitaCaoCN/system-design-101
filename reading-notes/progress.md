@@ -1,8 +1,8 @@
 # 学习进度
 
-更新时间：2026-07-19
+更新时间：2026-09-13
 
-当前进度：第一阶段的中文内容已经学完，第二阶段正在推进 `缓存与性能` 和 `数据库与存储` 两组文档。
+当前进度：第一阶段的中文内容已经学完；`数据库与存储` 已完成，`缓存与性能` 正在推进翻译。
 
 ## 已完成
 
@@ -28,10 +28,10 @@
 
 ## 第二阶段
 
-- 总目标：完成 `缓存与性能` 和 `数据库与存储` 两组中文翻译。
+- 总目标：完成 `缓存与性能` 和 `数据库与存储` 两组中文翻译与阅读。
 - 目标总数：76 篇。
-- 当前已完成：34 篇。
-- 其中 `数据库与存储`：29 / 47。
+- 当前已阅读：52 篇。
+- 其中 `数据库与存储`：47 / 47。
 - 其中 `缓存与性能`：5 / 29。
 
 ### 数据库与存储
@@ -54,7 +54,7 @@
 - [x] [Kafka 会丢消息吗？](../translations/zh/can-kafka-lose-messages.zh.md)
 - [x] [存储系统概览](../translations/zh/storage-systems-overview.zh.md)
 - [x] [对象存储的 6 个使用场景](../translations/zh/explain-the-top-6-use-cases-of-object-stores.zh.md)
-- [ ] [必须知道的最终一致性模式](../translations/zh/top-eventual-consistency-patterns-you-must-know.zh.md)
+- [x] [必须知道的最终一致性模式](../translations/zh/top-eventual-consistency-patterns-you-must-know.zh.md)
 - [x] [B-Tree 与 LSM-Tree](../translations/zh/b-tree-vs.zh.md)
 - [x] [如何决定使用哪类数据库](../translations/zh/how-do-you-decide-which-type-of-database-to-use.zh.md)
 - [x] [云数据库速查表](../translations/zh/cloud-database-cheat-sheet.zh.md)
@@ -68,20 +68,20 @@
 - [x] [10 个最流行的开源数据库](../translations/zh/top-10-most-popular-open-source-databases.zh.md)
 - [x] [PostgreSQL 正在吞噬数据库世界吗？](../translations/zh/is-postgresql-eating-the-database-world.zh.md)
 - [x] [如何选择正确的数据库](../translations/zh/how-to-choose-the-right-database.zh.md)
-- [ ] [爱奇艺数据库选择树](../translations/zh/iqiyi-database-selection-trees.zh.md)
-- [ ] [支撑数据库的 8 种数据结构](../translations/zh/8-data-structures-that-power-your-databases.zh.md)
-- [ ] [如何实现读副本模式](../translations/zh/how-to-implement-read-replica-pattern.zh.md)
+- [x] [爱奇艺数据库选择树](../translations/zh/iqiyi-database-selection-trees.zh.md)
+- [x] [支撑数据库的 8 种数据结构](../translations/zh/8-data-structures-that-power-your-databases.zh.md)
+- [x] [如何实现读副本模式](../translations/zh/how-to-implement-read-replica-pattern.zh.md)
 - [x] [数据库分片速成课](../translations/zh/a-crash-course-in-database-sharding.zh.md)
-- [ ] [IBM MQ -> RabbitMQ -> Kafka -> Pulsar：消息队列演进](../translations/zh/how-do-message-queue-architectures-evolve.zh.md)
-- [ ] [CAP 定理：最容易被误解的术语之一](../translations/zh/cap-theorem-one-of-the-most-misunderstood-terms.zh.md)
+- [x] [IBM MQ -> RabbitMQ -> Kafka -> Pulsar：消息队列演进](../translations/zh/how-do-message-queue-architectures-evolve.zh.md)
+- [x] [CAP 定理：最容易被误解的术语之一](../translations/zh/cap-theorem-one-of-the-most-misunderstood-terms.zh.md)
 - [x] [一致性哈希解释](../translations/zh/consistent-hashing.zh.md)
-- [ ] [数据库类型](../translations/zh/types-of-databases.zh.md)
-- [ ] [理解数据库分片的关键概念](../translations/zh/key-concepts-to-understand-database-sharding.zh.md)
-- [ ] [数据库锁解释](../translations/zh/what-are-the-differences-among-database-locks.zh.md)
-- [ ] [数据库性能速查表](../translations/zh/a-cheatsheet-on-database-performance.zh.md)
+- [x] [数据库类型](../translations/zh/types-of-databases.zh.md)
+- [x] [理解数据库分片的关键概念](../translations/zh/key-concepts-to-understand-database-sharding.zh.md)
+- [x] [数据库锁解释](../translations/zh/what-are-the-differences-among-database-locks.zh.md)
+- [x] [数据库性能速查表](../translations/zh/a-cheatsheet-on-database-performance.zh.md)
 - [x] [ACID 是什么意思？](../translations/zh/what-does-acid-mean.zh.md)
-- [ ] [Kafka 的 5 个主要使用场景](../translations/zh/top-5-kafka-use-cases.zh.md)
-- [ ] [内存和存储类型](../translations/zh/types-of-memory-and-storage.zh.md)
+- [x] [Kafka 的 5 个主要使用场景](../translations/zh/top-5-kafka-use-cases.zh.md)
+- [x] [内存和存储类型](../translations/zh/types-of-memory-and-storage.zh.md)
 - [x] [扩展数据库的 7 个必知策略](../translations/zh/7-must-know-strategies-to-scale-your-database.zh.md)
 
 ### 缓存与性能

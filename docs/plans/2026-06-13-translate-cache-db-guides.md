@@ -163,17 +163,17 @@ Done when: existence, readability, and repository status are all confirmed.
 
 ### 缓存与性能
 
-- [ ] `translations/zh/what-is-elk-stack-and-why-is-it-so-popular-for-log-management.zh.md` - 什么是 ELK Stack，为什么它很流行？
-- [ ] `translations/zh/why-are-content-delivery-networks-cdn-so-popular.zh.md` - CDN 为什么如此流行？
-- [ ] `translations/zh/how-do-big-keys-impact-redis-persistence.zh.md` - Redis 大 Key 如何影响持久化
-- [ ] `translations/zh/a-beginner's-guide-to-cdn-content-delivery-network.zh.md` - CDN 初学者指南
+- [x] `translations/zh/what-is-elk-stack-and-why-is-it-so-popular-for-log-management.zh.md` - 什么是 ELK Stack，为什么它很流行？
+- [x] `translations/zh/why-are-content-delivery-networks-cdn-so-popular.zh.md` - CDN 为什么如此流行？
+- [x] `translations/zh/how-do-big-keys-impact-redis-persistence.zh.md` - Redis 大 Key 如何影响持久化
+- [x] `translations/zh/a-beginner's-guide-to-cdn-content-delivery-network.zh.md` - CDN 初学者指南
 - [x] `translations/zh/the-ultimate-redis-101.zh.md` - 终极 Redis 101
-- [ ] `translations/zh/cache-systems-every-developer-should-know.zh.md` - 每个开发者都该了解的缓存系统
-- [ ] `translations/zh/top-5-strategies-to-reduce-latency.zh.md` - 降低延迟的 5 个策略
-- [ ] `translations/zh/top-5-caching-strategies.zh.md` - 5 个缓存策略
-- [ ] `translations/zh/things-to-consider-when-using-cache.zh.md` - 使用缓存时要考虑的事情
-- [ ] `translations/zh/most-popular-cache-eviction.zh.md` - 缓存淘汰策略
-- [ ] `translations/zh/memcached-vs-redis.zh.md` - Memcached 与 Redis
+- [x] `translations/zh/cache-systems-every-developer-should-know.zh.md` - 每个开发者都该了解的缓存系统
+- [x] `translations/zh/top-5-strategies-to-reduce-latency.zh.md` - 降低延迟的 5 个策略
+- [x] `translations/zh/top-5-caching-strategies.zh.md` - 5 个缓存策略
+- [x] `translations/zh/things-to-consider-when-using-cache.zh.md` - 使用缓存时要考虑的事情
+- [x] `translations/zh/most-popular-cache-eviction.zh.md` - 缓存淘汰策略
+- [x] `translations/zh/memcached-vs-redis.zh.md` - Memcached 与 Redis
 - [ ] `translations/zh/low-latency-stock-exchange.zh.md` - 低延迟证券交易所
 - [ ] `translations/zh/cache-miss-attack.zh.md` - 缓存未命中攻击
 - [ ] `translations/zh/top-8-cache-eviction-strategies.zh.md` - 8 个缓存淘汰策略
